@@ -1,4 +1,4 @@
-[7:47 pm, 31/7/2024] M: const arr = [1, 2, 3, 4, 1, 0, 2, 2];
+const arr = [1, 2, 3, 4, 1, 0, 2, 2];
 
 const divide = (arr, n) => {
   // Write your code here
@@ -25,5 +25,4 @@ const divide = (arr, n) => {
 };
 
 const n = prompt("Enter n: ");
-alert(JSON.stringify(divide(arr, n)));
-[7:47 pm, 31/7/2024] Rishab Rawat: https://course.acciojob.com/idle?question=e5d988ce-34ef-45cd-8773-
+alert(JSON.stringify(divide(arr, n)))
